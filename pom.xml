@@ -1,3 +1,9 @@
+ABOUT NATURE
+
+Nature is a vital force that sustains life on Earth. It includes all living and non-living things, and it's constantly
+changing. Nature is essential for human survival, and it's important to protect it for future generations. 
+
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Adidaas_WebAutomation</groupId>
